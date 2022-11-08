@@ -1,0 +1,5 @@
+bin/
+built/*.o
+built/test/*.o
+data/RAT.txt
+data/PROF.txt
